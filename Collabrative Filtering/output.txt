@@ -1,0 +1,17 @@
+MAE after fold 0 : 0.756013677078
+RMAE after fold 0 : 0.957630929107
+
+MAE after fold 1 : 0.723244079288
+RMAE after fold 1 : 0.919621304134
+
+MAE after fold 2 : 0.721533101522
+RMAE after fold 2 : 0.914658073079
+
+MAE after fold 3 : 0.72252453275
+RMAE after fold 3 : 0.914585384856
+
+MAE after fold 4 : 0.722708543178
+RMAE after fold 4 : 0.909922505755
+
+Average MAE over 5 folds: 0.729204786763
+Average RMAE over 5 folds: 0.923283639386
